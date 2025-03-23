@@ -11,12 +11,14 @@ The following tools and technologies were used for data analysis and visualizati
 
 Python (Data Processing & Analysis)
 Libraries: Pandas, NumPy
+
 Data Visualization
 Matplotlib, Seaborn
 
 
 ## 3)Project Structure
 data_analysis.ipynb - Jupyter Notebook for data analysis
+
 visualizations.png - Graphs and insights related to churn
 
 data/telecom_data.csv - Sample dataset used in analysis
