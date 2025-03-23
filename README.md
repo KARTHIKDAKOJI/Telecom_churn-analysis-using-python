@@ -12,7 +12,7 @@ The following tools and technologies were used for data analysis and visualizati
 Python (Data Processing & Analysis)
 Libraries: Pandas, NumPy
 
-Data Visualization
+Data Visualization:
 Matplotlib, Seaborn
 
 
