@@ -1,5 +1,8 @@
 #Customer Churn Analysis in Telecom Industry
-Overview
+
+
+#Overview
+
 Customer churn is a critical challenge for telecom companies, impacting revenue and long-term growth. This analysis aims to identify the key factors influencing churn, using data-driven insights from a telecom customer dataset. The study examines the impact of demographics, contract types, billing methods, tenure, and service usage on customer retention. The findings provide valuable insights to help businesses implement strategies to reduce churn and improve customer satisfaction.
 
 
